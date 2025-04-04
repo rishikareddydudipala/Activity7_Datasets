@@ -1,0 +1,28 @@
+item,price,quantitySold,profitMargin,category
+Smartphone,699,130,20,Mobile
+Laptop,999,80,25,Computing
+Smartwatch,199,160,15,Wearables
+Bluetooth Speaker,99,200,22,Audio
+Gaming Console,499,120,18,Gaming
+Wireless Earbuds,129,250,20,Audio
+Tablet,399,140,21,Mobile
+VR Headset,299,110,19,Gaming
+Laptop Stand,49,230,26,Accessories
+Router,89,190,24,Networking
+Monitor,249,150,20,Computing
+Smart Light,59,240,21,SmartHome
+Keyboard,79,180,23,Computing
+External HDD,109,160,22,Storage
+Smart Thermostat,199,90,19,SmartHome
+Printer,149,120,18,Office
+Projector,399,95,25,Office
+Dashboard Cam,119,105,19,Auto
+Fitness Tracker,149,200,16,Wearables
+Mouse,49,220,26,Computing
+Soundbar,299,135,20,Audio
+Graphics Card,699,85,22,Computing
+Wi-Fi Extender,59,160,24,Networking
+Action Camera,249,100,26,Auto
+Smart Doorbell,199,100,21,SmartHome
+Portable SSD,149,130,27,Storage
+Webcam,89,160,22,Office
